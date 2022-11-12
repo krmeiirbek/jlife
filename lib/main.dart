@@ -1,4 +1,4 @@
-import 'package:day35/pages/start.dart';
+import 'package:jlife/pages/start.dart';
 import 'package:flutter/material.dart';
 
 void main () {

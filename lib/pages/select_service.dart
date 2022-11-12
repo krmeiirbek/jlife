@@ -1,5 +1,5 @@
-import 'package:day35/models/service.dart';
-import 'package:day35/pages/cleaning.dart';
+import 'package:jlife/models/service.dart';
+import 'package:jlife/pages/cleaning.dart';
 import 'package:flutter/material.dart';
 
 class SelectService extends StatefulWidget {

@@ -1,4 +1,4 @@
-import 'package:day35/pages/home.dart';
+import 'package:jlife/pages/home.dart';
 import 'package:flutter/material.dart';
 import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
 

@@ -1,4 +1,4 @@
-import 'package:day35/models/service.dart';
+import 'package:jlife/models/service.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatefulWidget {

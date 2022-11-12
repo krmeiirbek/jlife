@@ -1,8 +1,8 @@
 import 'dart:async';
 import 'dart:math';
 
-import 'package:day35/models/service.dart';
-import 'package:day35/pages/select_service.dart';
+import 'package:jlife/models/service.dart';
+import 'package:jlife/pages/select_service.dart';
 import 'package:flutter/material.dart';
 
 class StartPage extends StatefulWidget {
